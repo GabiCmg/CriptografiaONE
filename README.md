@@ -1,7 +1,7 @@
 # Descodificador - Programa ONE
 
 <div align="center">
-<img height="225em" src="https://data.whicdn.com/images/319516064/original.gif"><img width="400em" height="225em" src="https://gifimage.net/wp-content/uploads/2017/09/anime-computer-gif-4.gif">
+<img height="225em" src="https://sto-blog.s3.amazonaws.com/images/2016/04/11/garanta-que-a-internet-vai-dar-certo.gif"><img width="400em" height="225em" src="https://gifimage.net/wp-content/uploads/2017/09/anime-computer-gif-4.gif">
 </div>
  
 <br>
