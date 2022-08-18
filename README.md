@@ -15,13 +15,12 @@ Feito em equipe por essas pessoas incríveis:
 
 <br>
 
+<a href="https://github.com/GabiCmg" target="_blank"><img align="left" src="https://avatars.githubusercontent.com/u/101142324?v=4" height="110" target="_blank"></a>
+<a href="https://github.com/annavoigg" target="_blank"><img align="left" src="https://avatars.githubusercontent.com/u/101263529?v=4" height="110" target="_blank"></a>
+<a href="https://github.com/MaxHenriique" target="_blank"><img align="left" src="https://avatars.githubusercontent.com/u/101279529?v=4" height="110"></a>
 
- <a href="https://github.com/isabvictoriaps" target="_blank"><img align="left" src="https://avatars.githubusercontent.com/u/93364960?v=4" height="110" target="_blank"></a>
- <a href="https://github.com/GabiCmg" target="_blank"><img align="left" src="https://avatars.githubusercontent.com/u/101142324?v=4" height="110" target="_blank"></a>
- <a href="https://github.com/annavoigg" target="_blank"><img align="left" src="https://avatars.githubusercontent.com/u/101263529?v=4" height="110" target="_blank"></a>
-  <a href="https://github.com/Aline1002" target="_blank"><img align="left" src="https://avatars.githubusercontent.com/u/79874630?v=4" height="110" target="_blank"></a>
- <a href="https://github.com/MaxHenriique" target="_blank"><img align="left" src="https://avatars.githubusercontent.com/u/101279529?v=4" height="110"></a>
- <a href="https://github.com/MecStitch" target="_blank"><img src="https://avatars.githubusercontent.com/u/101286899?v=4" height="110"></a>
+<br><br><br><br>
  
- 
-<a href="https://github.com/isabvictoriaps">Isabelle Victoria</a> &nbsp;&nbsp; <a href="https://github.com/GabiCmg">Gabriela Camargo</a> &nbsp;&nbsp; <a href="https://github.com/annavoigg">Giovanna Gomes</a> &nbsp;&nbsp; <a href="https://github.com/Aline1002">Aline Gallo</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/MaxHenriique">Max Henrique</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/MecStitch">Eudes Benevides</a>
+<a href="https://github.com/GabiCmg">Gabriela Camargo</a> &nbsp;&nbsp; 
+<a href="https://github.com/annavoigg">Giovanna Gomes</a> &nbsp;&nbsp; 
+<a href="https://github.com/MaxHenriique">Max Henrique</a> &nbsp;&nbsp;
