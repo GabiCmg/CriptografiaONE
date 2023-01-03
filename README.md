@@ -11,7 +11,6 @@
 * [Descrição do Projeto](#-descrição-do-projeto)
 * [Documentação de cores](#-documentação-de-cores)
 * [Execução](#-execução)
-* [Aprendizados](#-aprendizados)
 * [Autores](#-autores)
 
 ## 💬 Descrição do projeto
@@ -32,10 +31,7 @@ Este programa foi realizado para resolver o desafio proposto pelo Programa ONE, 
 
 ## ⚡ Execução
 
-Para conseguir jogar basta abrir o seguinte link: https://gabicmg.github.io/jogoForcaONE/
-
-## 🤔 Aprendizados
-
+Para conseguir jogar basta abrir o seguinte link: https://gabicmg.github.io/CriptografiaONE/
 
 ## 👥 Autores
 
